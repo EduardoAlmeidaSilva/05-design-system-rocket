@@ -18,7 +18,6 @@ module.exports = {
       config.base = "/05-design-system/";
     }
 
-    
     return config;
   },
 };
